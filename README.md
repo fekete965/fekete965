@@ -2,21 +2,16 @@
 
 If I have helped you anywhere and you'd like to buy me a coffee for any reason: [☕ Click here ☕](https://www.buymeacoffee.com/fekete)
 
-![](https://github-readme-stats.vercel.app/api?username=fekete965&show_icons=true&count_private=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fekete965&layout=compact&theme=radical)
+- 🔭 I’m currently working on: **Cannot say 😞**
+- 🌱 I’m currently learning: **C**
+- 👯 I’m looking to collaborate on: **any open source project**
+- 🤔 I’m looking for help with: **improving my BE knowledge**
+- 💬 Ask me about: **Anything 😅**
+- 📫 How to reach me: **㊙️ SECRET ㊙️**
+- 😄 Pronouns: **HE/HIM**
+- ⚡ Fun fact: **✴️ My surname means "black" ✴️**
 
-<!--
-**fekete965/fekete965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=fekete965&show_icons=true&count_private=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fekete965&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- **fekete965/fekete965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
