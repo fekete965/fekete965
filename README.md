@@ -8,8 +8,7 @@ If I have helped you anywhere and you'd like to buy me a coffee for any reason: 
 - 👯 I’m looking to collaborate on: **Any open source project**
 - 🤔 I’m looking for help with: **Improving my BE knowledge**
 - 💬 Ask me about: **Anything 😅**
-- 📫 How to reach me: **㊙️ SECRET ㊙️**
-- 😄 Pronouns: **HE/HIM**
+- 📫 How to reach me: **㊙️ SECRET**
 - ⚡ Fun fact: **✴️ My surname means "black" ✴️**
 
 ![](https://github-readme-stats.vercel.app/api?username=fekete965&show_icons=true&count_private=true&theme=radical) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fekete965&layout=compact&theme=radical)
