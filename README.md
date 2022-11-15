@@ -26,12 +26,11 @@
 
 <hr/>
 
-<div style="display: grid; grid-template-rows: auto auto; grid-gap:1rem; justify-items: center;">
+<p align="left">
   If I have helped you anywhere and you'd like to buy me a coffee:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fekete)
-
-</div>
+</p>
   
 <hr/>
 
