@@ -1,5 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=d93b7d&height=150&animation=fadeIn&section=header&text=👋%20Welcome%20stranger&fontSize=40)
+
 [![@fekete965's Holopin board](https://holopin.io/api/user/board?user=fekete965)](https://holopin.io/@fekete965)
 
+<h2>Socials</h2>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bence-fekete/)
 
@@ -8,12 +11,13 @@
 If I have helped you anywhere and you'd like to buy me a coffee for any reason: [☕ Click here ☕](https://www.buymeacoffee.com/fekete)
 
 
+- 🔧 I’m working for: [**LoveJunk**](https://lovejunk.com) 💚
 - 🔭 I’m currently working on: **Cannot say 😞**
-- 🌱 I’m currently learning: **C**
+- 📖 I’m currently learning: **C** 
 - 👯 I’m looking to collaborate on: **Any open source project**
 - 🤔 I’m looking for help with: **Improving my BE knowledge**
 - 💬 Ask me about: **Anything 😅**
-- ⚡ Fun fact: **✴️ My surname means "black" ✴️**
+- ⚡ Fun fact: ** My surname means black ✴️**
 
 <hr/>
 
