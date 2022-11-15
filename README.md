@@ -3,16 +3,13 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=d93b7d&height=175&animation=fadeIn&section=header&text=🌑%20Welcome%20beautiful%20people!&fontColor=fff&fontSize=40&fontAlignY=30&theme=tokyonight)
 </p>
 
-<section>
-  <h3>About me</h3>
-  <article>
-    Hey! 👋 I am Bence, I am a self taught full-stack developer. I love learning 📚 and helping others 👐. In my free time I love spending time with my daughter and wife 😍, doing calisthenics 💪 and martial arts 🤼.
-  </article>
-  </br>
+<h3>About me</h3>
+<p>
+  Hey! 👋 I am Bence, I am a self taught full-stack developer. I love learning 📚 and helping others 👐. In my free time I love spending time with my daughter and wife 😍, doing calisthenics 💪 and martial arts 🤼.
+</p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bence-fekete/)
 
-</section>
 
 <hr/>
 
