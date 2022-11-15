@@ -13,7 +13,6 @@ If I have helped you anywhere and you'd like to buy me a coffee for any reason: 
 - 👯 I’m looking to collaborate on: **Any open source project**
 - 🤔 I’m looking for help with: **Improving my BE knowledge**
 - 💬 Ask me about: **Anything 😅**
-- 📫 How to reach me: **㊙️ SECRET**
 - ⚡ Fun fact: **✴️ My surname means "black" ✴️**
 
 <hr/>
