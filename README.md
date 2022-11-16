@@ -1,7 +1,4 @@
-<p style="text-align: center;">
-
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=d93b7d&height=175&animation=fadeIn&section=header&text=🌑%20Welcome%20beautiful%20people!&fontColor=fff&fontSize=40&fontAlignY=30&theme=tokyonight)
-</p>
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&color=d93b7d&height=175&animation=fadeIn&section=header&text=🌑%20Welcome%20beautiful%20people!&fontColor=fff&fontSize=40&fontAlignY=30&theme=tokyonight" />
 
 <h3>About me</h3>
 <p>
@@ -23,10 +20,11 @@
 
 <hr/>
 
-<p align="left">
+<p>
   If I have helped you anywhere and you'd like to buy me a coffee:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/fekete)
+  <a href="https://www.buymeacoffee.com/fekete" target="_blank" rel="noopener">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+  </a>
 </p>
   
 <hr/>
@@ -67,4 +65,4 @@
   </p>
 </div>
 
-<!-- **fekete965/fekete965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&color=d93b7d&height=175&animation=fadeIn&section=footer&theme=tokyonight" />
