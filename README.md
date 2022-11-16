@@ -47,11 +47,11 @@
   <p align="center">
     <img src="https://skillicons.dev/icons?i=aws,vercel,firebase&perline=6" />
   </p>
-  <h4>Back End:</h4>
+  <h4>Backend:</h4>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=scala,c,nodejs,postgres,mongodb&perline=6" />
   </p>
-  <h4>Front End:</h4>
+  <h4>Frontend:</h4>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=remix,react,redux,ts,js,webpack,vite,jest,html,css,tailwind&perline=6" />
   </p>
