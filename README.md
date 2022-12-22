@@ -49,7 +49,7 @@
   </p>
   <h4>Backend:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=scala,c,nodejs,python,postgres,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=scala,c,nodejs,python,flask,postgres,mongodb&perline=6" />
   </p>
   <h4>Frontend:</h4>
   <p align="center">
