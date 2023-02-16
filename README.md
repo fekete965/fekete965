@@ -11,7 +11,6 @@
 <hr/>
 
 - 🔧 I’m working for: [**LoveJunk**](https://lovejunk.com) 💚
-- 🔭 I’m currently working on: **Cannot say 😞**
 - 📖 I’m currently learning: **C and Python**
 - 👯 I’m looking to collaborate on: **Any open source project**
 - 🤔 I’m looking for help with: **Improving my BE knowledge**
