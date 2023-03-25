@@ -52,7 +52,7 @@
   </p>
   <h4>Frontend:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=remix,react,redux,ts,js,webpack,vite,jest,html,css,tailwind&perline=6" />
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,redux,ts,js,webpack,vite,jest,html,css,tailwind&perline=6" />
   </p>
   <h4>Version control:</h4>
   <p align="center">
