@@ -19,6 +19,15 @@
 
 <hr/>
 
+<h3>Technical books I read</h3>
+<p>
+
+  - Learn C the Hard Way - Zed Shaw's Hard Way Series
+  - JavaScript: The Good Parts - Douglas Crockford
+</p>
+
+<hr/>
+
 <p>
   If I have helped you anywhere and you'd like to buy me a coffee:
   <a href="https://www.buymeacoffee.com/fekete" target="_blank" rel="noopener">
