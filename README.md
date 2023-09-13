@@ -57,11 +57,11 @@
   </p>
   <h4>Backend:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=scala,c,nodejs,python,flask,django,postgres,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=scala,c,nodejs,python,flask,django,postgres,express,mongodb&perline=6" />
   </p>
   <h4>Frontend:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,redux,ts,js,webpack,vite,jest,html,css,tailwind&perline=6" />
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,redux,ts,js,webpack,vite,jest,html,css,tailwind,emotion,styledcomponents&perline=6" />
   </p>
   <h4>Version control:</h4>
   <p align="center">
@@ -69,7 +69,7 @@
   </p>
   <h4>Others:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,figma,linkedin,discord,vscode,vim&perline=6" />
+    <img src="https://skillicons.dev/icons?i=docker,cmake,figma,linkedin,discord,vscode,vim&perline=6" />
   </p>
 </div>
 
