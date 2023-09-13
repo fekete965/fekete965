@@ -2,7 +2,7 @@
 
 <h3>About me</h3>
 <p>
-  Hey! 👋 I am Bence, I am a self taught full-stack developer. I love learning 📚 and helping others 👐. In my free time I love spending time with my daughter and wife 😍, doing calisthenics 💪 and martial arts 🤼.
+  Hey! 👋 I am Bence, I am a self-taught full-stack developer. I love learning 📚 and helping others 👐. In my free time, I love spending time with my daughter and wife 😍, doing calisthenics 💪 and martial arts 🤼.
 </p>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bence-fekete/)
@@ -57,7 +57,7 @@
   </p>
   <h4>Backend:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=scala,c,nodejs,python,flask,postgres,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=scala,c,nodejs,python,flask,django,postgres,mongodb&perline=6" />
   </p>
   <h4>Frontend:</h4>
   <p align="center">
