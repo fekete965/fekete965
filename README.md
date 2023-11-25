@@ -2,10 +2,11 @@
 
 <h3>About me</h3>
 <p>
-  Hey! 👋 I am Bence, I am a self-taught full-stack developer. I love learning 📚 and helping others 👐. In my free time, I love spending time with my daughter and wife 😍, doing calisthenics 💪 and martial arts 🤼.
+  Hey! 👋 I am Bence, I am a self-taught full-stack developer. I love learning 📚 and helping others 👐. In my free time, I love spending time with my daughter and wife 😍, doing callisthenics 💪 and martial arts 🤼.
 </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bence-fekete/)
+[![Static Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bence-fekete/)
+[![Static Badge](https://img.shields.io/badge/Front_End_Masters-red?style=for-the-badge)](https://frontendmasters.com/u/Bence/)
 
 
 <hr/>
