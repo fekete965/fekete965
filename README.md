@@ -12,10 +12,8 @@
 <hr/>
 
 - 🔧 I’m working for: [**LoveJunk**](https://lovejunk.com) 💚
-- 📖 I’m currently learning: **C & UI Architecture**
+- 📖 I’m currently learning: **C**
 - 👯 I’m looking to collaborate on: **Any open source project**
-- 🤔 I’m looking for help with: **Improving my BE knowledge**
-- 💬 Ask me about: **Anything 😅**
 - ⚡ Fun fact: **My surname means black ✴️**
 
 <hr/>
