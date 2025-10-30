@@ -12,7 +12,7 @@
 <hr/>
 
 - 🔧 I’m working for: [**LoveJunk**](https://lovejunk.com) 💚
-- 📖 I’m currently learning: **C**
+- 📖 I’m currently learning: **C**, **Go**
 - 👯 I’m looking to collaborate on: **Any open source project**
 - ⚡ Fun fact: **My surname means black ✴️**
 
@@ -56,7 +56,7 @@
   </p>
   <h4>Backend:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=scala,c,nodejs,python,flask,django,postgres,express,mongodb&perline=6" />
+    <img src="https://skillicons.dev/icons?i=scala,c,go,nodejs,python,flask,django,postgres,express,mongodb&perline=6" />
   </p>
   <h4>Frontend:</h4>
   <p align="center">
