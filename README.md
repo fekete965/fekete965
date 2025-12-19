@@ -7,7 +7,7 @@
 
 [![Static Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bence-fekete/)
 [![Static Badge](https://img.shields.io/badge/Front_End_Masters-red?style=for-the-badge)](https://frontendmasters.com/u/Bence/)
-
+[![Boot.dev Badge](https://img.shields.io/badge/Boot.dev-%234297F5?style=for-the-badge&logo=bootdotdev&logoColor=white)](https://www.boot.dev/u/subtlehospital18)
 
 <hr/>
 
